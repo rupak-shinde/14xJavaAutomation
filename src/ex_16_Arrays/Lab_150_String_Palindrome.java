@@ -1,4 +1,4 @@
-package ex_15_String_Buffer_Builder_StringFunction;
+package ex_16_Arrays;
 
 public class Lab_150_String_Palindrome {
     public static void main(String[] args) {
